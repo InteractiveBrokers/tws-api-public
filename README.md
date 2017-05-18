@@ -1,5 +1,5 @@
 <a href="http://www.interactivebrokers.com/en/main.php" target="_self">
-  <img src="http://www.interactivebrokers.com/images/sitetemplate/new/mnTempLogo_US.png" alt="Interactive Brokers" border="0"/>
+  <img src="https://www.interactivebrokers.com/images/2015/template/logo-ib-ibkr-txtblk.svg" alt="Interactive Brokers" border="0" width="33%"/>
 </a>
 
 ### Download
